@@ -8,3 +8,30 @@
   font-size:1.5em;
   color: royalblue;
 }
+
+.content{
+  background-color: lightseagreen;
+
+  width: 35%;
+  
+}
+
+.tabley{
+  background-color: violet;
+  border: 1px solid magenta;
+  border-radius: 10px 12px 13px 15px;
+}
+
+.fairy{
+  font-size: 2.5em;
+  color: gold
+}
+
+body{
+  background-color: cyan;
+
+}
+
+img { 
+  float:inline-start;
+}
